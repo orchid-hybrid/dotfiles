@@ -1,2 +1,3 @@
 # dotfiles
-dotfiles
+
+```ls -a ~ | grep '^\.'```
