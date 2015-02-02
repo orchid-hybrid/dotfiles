@@ -1,0 +1,4 @@
+keycode 0x12 = 9 braceleft
+keycode 0x13 = 0 braceright
+keycode 0x22 = parenleft bracketleft
+keycode 0x23 = parenright bracketright
